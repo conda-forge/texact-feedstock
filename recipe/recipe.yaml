@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   python_min: "3.11"
-  version: "0.2.0"
+  version: "0.3.0"
 
 package:
   name: texact
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/texact/texact-${{ version }}.tar.gz
-  sha256: 4675127eed923c132295c81ff1ee65d6011aef7fcc6b0814a3b9f07269195979
+  sha256: 22e1ff33766e1d8b6e50717e25a91cd8d093e2fe21ef1c910e103ea24875be23
 
 build:
   number: 0
