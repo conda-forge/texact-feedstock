@@ -11,7 +11,7 @@ Summary: Automated article and LaTeX checks
 
 Development: https://github.com/Theodor-Lindberg/texact
 
-Documentation: https://theodor-lindberg.github.io/texact/
+Documentation: https://texact.org/
 
 Current build status
 ====================

@@ -56,7 +56,7 @@ about:
   license_file: LICENSE.txt
   homepage: https://github.com/Theodor-Lindberg/texact
   repository: https://github.com/Theodor-Lindberg/texact
-  documentation: https://theodor-lindberg.github.io/texact/
+  documentation: https://texact.org/
 
 extra:
   recipe-maintainers:
